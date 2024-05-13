@@ -1,4 +1,4 @@
-Demo datasets used by the `OpenECCI <link>`_ Python library
+Demo datasets used by the `OpenECCI <link>` Python library
 for Electron Channelling Contrast Imaging (ECCI) analysis 
 of crystal defects in scanning electron microscope (SEM)
 
@@ -6,13 +6,11 @@ If you find a dataset useful, please cite the individual dataset's DOI.
 
 If an individual DOI is not available, please cite the openECCI library DOI, [to be updated openECCI DOI].
 
-[![Zenodo DOI](https://zenodo.org/badge/doi/.svg)](https://doi.org/)
-
 EBSD map
 ---------
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[![Zenodo DOI](https://zenodo.org/badge/doi/.svg)](https://doi.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
 
 | **File name** | ebsd_map/20kv_26nA_15mm WD_4x4 bin_fcc_Fe Map.ctf |
 | :- | :- |
@@ -26,7 +24,7 @@ EBSD master pattern
 -------------------
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[![Zenodo DOI](https://zenodo.org/badge/doi/.svg)](https://doi.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
 
 | **File name** | ebsd_master_pattern/Fe-master-20kV.h5 |
 | :- | :- |
@@ -41,7 +39,7 @@ Electron Channelling Pattern (ECP) from FCC austenitic stainless steel specimen
 
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[![Zenodo DOI](https://zenodo.org/badge/doi/.svg)](https://doi.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
 
 | **File name** | fcc_fe/01_Si_ref.tif |
 | :- | :- |
@@ -60,7 +58,7 @@ ECP pattern from Si[001] wafer at different stage orientations
 
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-[![Zenodo DOI](https://zenodo.org/badge/doi/.svg)](https://doi.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
 
 | **File name** | si_wafer/TFS/Si_xtilt_xrot_xxx.tif|
 | :- | :- |
