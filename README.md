@@ -1,16 +1,13 @@
-Demo datasets used by the `OpenECCI <link>` Python library
-for Electron Channelling Contrast Imaging (ECCI) analysis 
-of crystal defects in scanning electron microscope (SEM)
+Demo datasets used by the [OpenECCI](https://github.com/IMBalENce/openECCI) Python library
+for Electron Channelling Contrast Imaging (ECCI) analysis of crystal defects in Scanning Electron Microscope (SEM)
 
 If you find a dataset useful, please cite the individual dataset's DOI.
 
-If an individual DOI is not available, please cite the openECCI library DOI, [to be updated openECCI DOI].
+If an individual DOI is not available, please cite the openECCI library DOI https://doi.org/10.5281/zenodo.11183730.
 
 EBSD map
 ---------
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
 
 | **File name** | ebsd_map/20kv_26nA_15mm WD_4x4 bin_fcc_Fe Map.ctf |
 | :- | :- |
@@ -22,24 +19,21 @@ EBSD map
 
 EBSD master pattern
 -------------------
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
 
 | **File name** | ebsd_master_pattern/Fe-master-20kV.h5 |
 | :- | :- |
-| **Description** | EBSD master pattern of FCC Fe at 20kV simulated using [EMsoft package ver. 5.0.20221208](https://github.com/EMsoft-org/EMsoft). |
+| **Description** | EBSD master pattern of FCC Fe at 20kV simulated using [EMsoft package ver. 5.0.20221208](https://github.com/EMsoft-org/EMsoft). <br>*Due to the file size and limitation of github storage limit, this file is removed from this repo and only available from [Zenodo](https://doi.org/10.5281/zenodo.11169052).*|
 
 | **File name** | ebsd_master_pattern/Si-master-20kV.h5|
 | :- | :- |
-| **Description** | EBSD master pattern of Si at 20kV simulated using [EMsoft package ver. 5.0.20221208](https://github.com/EMsoft-org/EMsoft). |
+| **Description** | EBSD master pattern of Si at 20kV simulated using [EMsoft package ver. 5.0.20221208](https://github.com/EMsoft-org/EMsoft). <br>*Due to the file size and limitation of github storage limit, this file is removed from this repo and only available from [Zenodo](https://doi.org/10.5281/zenodo.11169052).*|
+
 
 Electron Channelling Pattern (ECP) from FCC austenitic stainless steel specimen
 ---------------------------------------------
 
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
 
 | **File name** | fcc_fe/01_Si_ref.tif |
 | :- | :- |
@@ -56,9 +50,7 @@ Electron Channelling Pattern (ECP) from FCC austenitic stainless steel specimen
 ECP pattern from Si[001] wafer at different stage orientations
 --------------------------------------------------------------
 
-[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11169052.svg)](https://doi.org/10.5281/zenodo.11169052)
 
 | **File name** | si_wafer/TFS/Si_xtilt_xrot_xxx.tif|
 | :- | :- |
